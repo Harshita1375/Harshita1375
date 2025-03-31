@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 **About Me**
-- 🎓 **B.Tech** in Computer Science, 3rd Year (5th Semester).
+- 🎓 Computer Science and Engineering aspirant, graduating in 2026.
 - 💻 Passionate about **Machine Learning, Cloud, and Data Science**.
 - 🎯 **Skills:** Python, Java, ML, AI, Data Analysis, Cloud (IBM Watson), Frontend Development, DSA.
 - ⚙️ Practicing **LeetCode** and solving **DSA** challenges in Java.
