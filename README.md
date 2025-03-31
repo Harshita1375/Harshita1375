@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Harshita!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-stack+Developer;AI+%7C+Cloud+%7C+Data+Science;Open+to+collaboration+%26+new+opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+%7C+Cloud+%7C+Data+Science;Open+to+collaboration+%26+new+opportunities!" alt="Typing SVG" />
+
 </p>
 
 ---
