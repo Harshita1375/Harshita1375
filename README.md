@@ -50,7 +50,7 @@
 
 ## 💡 **Get in Touch**
 📧 Email: [harshita75tiwary@gmail.com](mailto:harshita75tiwary@gmail.com)  
-🌐 LinkedIn: [Harshita]([linkedin.com/in/harshita-tiwary-523739252/](https://www.linkedin.com/in/harshita-tiwary-523739252/))  
+🌐 LinkedIn: [Harshita Tiwary](https://www.linkedin.com/in/harshita-tiwary-523739252/)<br>
 🐙 GitHub: [Harshita1375](https://github.com/Harshita1375)
 
 ---
