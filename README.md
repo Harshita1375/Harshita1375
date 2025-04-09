@@ -29,18 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita1375&theme=radical" alt="Streak Stats" />
 </p>
 
----
-
-## 🚀 **Top Projects**
-- 🔥 [**Household Water Consumption Prediction**](https://github.com/Harshita1375/Household_water_consumption_pattern)  
-   💡 XGBoost + DEAP hybrid model to predict daily water consumption for households.  
-- 🤖 [**University Chatbot**](https://github.com/Harshita1375/University-Chatbot)  
-   💬 IBM Watson Assistant-powered chatbot for answering university-related queries.  
-- 🐍 [**Python Desktop Assistant**](https://github.com/Harshita1375/Desktop-Assistant)  
-   🛠️ Automates basic system tasks using voice commands.
-
----
-
 ## 📚 **LeetCode Stats**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/harshi9tiwary?ext=heatmap" alt="LeetCode Stats" />
