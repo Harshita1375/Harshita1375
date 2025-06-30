@@ -31,7 +31,7 @@
 
 ## 📚 **GeeksforGeeks Stats**
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/harshi9tiwary/practice/">
+  <a href="https://www.geeksforgeeks.org/user/harshitat203o/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Harshi9tiwary-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile Badge"/>
   </a>
 </p>
