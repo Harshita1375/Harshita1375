@@ -29,10 +29,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshita1375&theme=radical" alt="Streak Stats" />
 </p>
 
-## 📚 **LeetCode Stats**
+## 📚 **GeeksforGeeks Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshi9tiwary?ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://auth.geeksforgeeks.org/user/harshi9tiwary/practice/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Harshi9tiwary-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile Badge"/>
+  </a>
 </p>
+
+- ✅ **Problems Solved**: 300+ 
+- 💪 **Coding Score**: 951  
+- 🌟 **Institute Rank**: 9  
 
 
 ---
